@@ -1,10 +1,9 @@
 # vue-apple
 
-This template should help get you started developing with Vue 3 in Vite.
+這是參考Alex前端youtube影片做的，apple官網產品滾動卷軸縮放效果
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+[實際效果](https://jordan-ttc-design.github.io/vue-anima-apple/dist/index.html) 
+[youtube影片來源](https://www.youtube.com/watch?v=g8ClJ9V3hKI) 
 
 ## Customize configuration
 
